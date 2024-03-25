@@ -7,9 +7,9 @@ So I have Selected some what Complex Data Related to Credit Card Fraud Detection
 4)To study which age group people more affecting to default payment 
 5) To study the bill delay is significant for default payment in next month 
 ### Problem Statement: 
-Indentify of default payment before occuring event alert the organization and they can prevent it 
-Probability of default payment occur 
-Indentify which age group people moniter closely 
-Indentify bill delay poeple are contributed to default payment 
+1) Indentify of default payment before occuring event alert the organization and they can prevent it 
+2) Probability of default payment occur 
+3) Indentify which age group people moniter closely 
+4) Indentify bill delay poeple are contributed to default payment 
 
 ### Data Information:-
